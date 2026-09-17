@@ -1,0 +1,7 @@
+mode: strict
+priorities:
+  - security
+  - performance
+  - style
+ignore:
+  - "*.test.js"
