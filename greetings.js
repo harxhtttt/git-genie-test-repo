@@ -20,4 +20,4 @@ function findDuplicates(arr1, arr2) {
   return duplicates;
 }
 
-module.exports = { printHello, printGoodbye, findDuplicates };
+module.exports = { printHello, printGoodbye, findDuplicates };// hi
